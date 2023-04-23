@@ -1,0 +1,1 @@
+The purpose of this project is to build a basic recipe website. I will combine lists, images, and links to demonstrate my understanding of HTML concepts. 
